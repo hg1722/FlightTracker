@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_MDB4_FlightTracker_MDB4_FlightTrackerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_MDB4_FlightTracker_MDB4_FlightTrackerUITests
+@end

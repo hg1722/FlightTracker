@@ -1,0 +1,6 @@
+framework module Pods_MDB4_FlightTracker_MDB4_FlightTrackerUITests {
+  umbrella header "Pods-MDB4-FlightTracker-MDB4-FlightTrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

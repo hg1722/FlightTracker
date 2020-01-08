@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MDB4-FlightTracker-MDB4-FlightTrackerUITests/Pods-MDB4-FlightTracker-MDB4-FlightTrackerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
